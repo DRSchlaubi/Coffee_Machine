@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Interval" />
+            <option value="$PROJECT_DIR$/Problems (10)/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Problems (11)/Right equation" />
+            <option value="$PROJECT_DIR$/Problems (12)/Right equation" />
+            <option value="$PROJECT_DIR$/Problems (13)/Comparing sums" />
+            <option value="$PROJECT_DIR$/Problems (14)/Division" />
+            <option value="$PROJECT_DIR$/Problems (15)/Job" />
+            <option value="$PROJECT_DIR$/Problems (16)/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems (17)/Within both ranges" />
+            <option value="$PROJECT_DIR$/Problems (18)/Shape" />
+            <option value="$PROJECT_DIR$/Problems (19)/Direction" />
+            <option value="$PROJECT_DIR$/Problems (2)/Interval" />
+            <option value="$PROJECT_DIR$/Problems (20)/String processor" />
+            <option value="$PROJECT_DIR$/Problems (21)/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Problems (22)/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Problems (23)/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems (24)/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Problems (25)/The sum of elements" />
+            <option value="$PROJECT_DIR$/Problems (26)/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems (27)/The sequence 1 2 2 3 3 3" />
+            <option value="$PROJECT_DIR$/Problems (28)/The sequence 1 2 2 3 3 3" />
+            <option value="$PROJECT_DIR$/Problems (29)/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems (3)/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Problems (30)/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems (31)/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Problems (32)/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Problems (33)/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems (34)/Pseudo-constructor" />
+            <option value="$PROJECT_DIR$/Problems (35)/Currencies" />
+            <option value="$PROJECT_DIR$/Problems (36)/Danger level" />
+            <option value="$PROJECT_DIR$/Problems (37)/Currency comparision" />
+            <option value="$PROJECT_DIR$/Problems (4)/The information about a person" />
+            <option value="$PROJECT_DIR$/Problems (5)/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems (6)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (7)/Are the numbers different" />
+            <option value="$PROJECT_DIR$/Problems (8)/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems (9)/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Problems/First, second, third" />
+            <option value="$PROJECT_DIR$/Problems/Fix declarations" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program (1)" />
+            <option value="$PROJECT_DIR$/Problems/Four numbers" />
+            <option value="$PROJECT_DIR$/Problems/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/How many nuts will be left after division" />
+            <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Read and print" />
+            <option value="$PROJECT_DIR$/Problems/Swap" />
+            <option value="$PROJECT_DIR$/Problems/The Hello World program" />
+            <option value="$PROJECT_DIR$/Problems/The result of a game in Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Problems/Very Big Number" />
+            <option value="$PROJECT_DIR$/Problems/Your name" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun createPoint(x: Int, y: Int, z: Int): Point3D {
+        // provide implementation here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6207
+status: Solved
+record: -1

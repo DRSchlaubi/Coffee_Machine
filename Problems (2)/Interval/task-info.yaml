@@ -1,0 +1,9 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: "// write your answer here \n\n"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2165
+status: Failed
+record: -1

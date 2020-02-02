@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems__22_-Print_a_string_exactly_ten_times" external.linked.project.path="$MODULE_DIR$/../../../../Problems (22)/Print a string exactly ten times" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (22)/Print a string exactly ten times">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (22)/Print a string exactly ten times/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (22)/Print a string exactly ten times/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (22)/Print a string exactly ten times/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,10 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: "var a = 5 // do not change this line \nvar b = 7 // do not change this line\n\
+    c ="
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7308
+status: Solved
+record: -1

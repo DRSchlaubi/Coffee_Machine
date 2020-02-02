@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Fix the program (1)/out/
+/Problems/Fix the program (1)/out/production/classes/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/How many nuts will be left after division/out/
+/Problems/How many nuts will be left after division/out/production/classes/
+/Problems/The Hello World program/out/
+/Problems/The Hello World program/out/production/classes/
+/Problems/Your name/out/
+/Problems/Your name/out/production/classes/
+/Problems (4)/The information about a person/out/
+/Problems (4)/The information about a person/out/production/classes/
+/Problems (21)/Boys in the sport class/out/
+/Problems (21)/Boys in the sport class/out/production/classes/
+/Problems (23)/Size of parts/out/
+/Problems (23)/Size of parts/out/production/classes/
+/Problems (24)/Maximum element divisible by 4/out/
+/Problems (24)/Maximum element divisible by 4/out/production/classes/
+/Problems (26)/Collatz conjecture/out/
+/Problems (26)/Collatz conjecture/out/production/classes/
+/Problems (37)/Currency comparision/out/
+/Problems (37)/Currency comparision/out/production/classes/

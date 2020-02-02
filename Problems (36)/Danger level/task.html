@@ -1,0 +1,29 @@
+<b>Danger level</b> <a class="right" href="https://hyperskill.org/learn/step/6251">Open on Hyperskill</a><br/><br/><html>
+ <head></head>
+ <body>
+  <p>Given an enumeration named <code>DangerLevel</code>.</p> 
+  <p>Add an integer property to store danger level and associate the number to each constant:</p> 
+  <table border="1" cellpadding="1" cellspacing="1" style="width: 200px;"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center;"><code>HIGH</code></td> 
+     <td style="text-align: center;">3</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"><code>MEDIUM</code></td> 
+     <td style="text-align: center;">2</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;"><code>LOW</code></td> 
+     <td style="text-align: center;">1</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <p>Also, you should add the <code>getLevel</code> member function that returns the associated integer number.</p> 
+  <p>After your modifications, the following code should be compiled and work correctly:</p> 
+  <pre><code class="language-kotlin">val high = DangerLevel.HIGH
+val medium = DangerLevel.MEDIUM
+println(high.getLevel() &gt; medium.getLevel()) // true</code></pre> 
+  <p>&nbsp;[ALERT-warning]The property can't be named as <code>level</code> because there is the <code>getLevel</code> function. So choose another name for the property.[/ALERT]</p>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 Mb</font><br><font color="gray">Time limit: 5s</font><br><br><br/><a href="https://hyperskill.org/learn/step/6245">Show topic summary</a>
